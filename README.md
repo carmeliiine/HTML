@@ -20,8 +20,8 @@ HTML Course
 <body>
 
 <h1 style="background-color:MediumSeaGreen;">Old Me by 5SOS</h1>
-<p>Shout out to the old me
-And everything he showed me
+<p>Shout out to the old me</p>
+And everything he showed me</p>
 Glad you didn't listen when the world was trying to slow me
 No one could control me
 Left my lovers lonely

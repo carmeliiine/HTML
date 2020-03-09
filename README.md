@@ -15,3 +15,13 @@ HTML Course
 </body>
 </html>
 
+<!DOCTYPE html>
+<html>
+<body>
+
+<p><h1 style="background-color:MediumSeaGreen;">This is a paragraph.</p>
+<p>This is a paragraph.</p>
+<p>This is a paragraph.</p>
+
+</body>
+</html>

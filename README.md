@@ -1,8 +1,8 @@
 # HTML
 HTML Course
 
-<!DOCTYPE html>
-<html>
+#<!DOCTYPE html>
+#<html>
 <body>
 
 <h1>Heading 1</h1>

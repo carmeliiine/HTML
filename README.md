@@ -15,13 +15,12 @@ HTML Course
 </body>
 </html>
 
-<!DOCTYPE html>
+
 <html>
 <body>
 
-<p><h1 style="background-color:MediumSeaGreen;">This is a paragraph.</p>
+<h1 style="background-color:MediumSeaGreen;">My name is Christina and i like 5sos uWu</h1>
 <p>This is a paragraph.</p>
 <p>This is a paragraph.</p>
 
-</body>
-</html>
+
